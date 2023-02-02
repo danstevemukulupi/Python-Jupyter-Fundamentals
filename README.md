@@ -1,6 +1,6 @@
 # Python-Jupyter-Fundamentals
 # How to start
-cmder
+* cmder
 cd .. 
 cd ..
 git clone git@github.com:danstevemukulupi/Python-Jupyter-Fundamentals.git
