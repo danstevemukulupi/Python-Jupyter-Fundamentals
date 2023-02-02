@@ -28,3 +28,8 @@
 * new file 
 * select " jupyter notebook file "
 * save as "eg.Python-Jupyter-Fundamentals.ipynb"
+# Jupyter Notebook file
+* Code " place all codes are written "
+* Markdown "place  Title, comment, description, details are written "
+* write title & description under Markdown " Eg:  ### Python Fundemntals *** Notes about python "
+* 
